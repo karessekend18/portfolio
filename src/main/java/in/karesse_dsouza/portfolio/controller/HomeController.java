@@ -30,6 +30,5 @@ public class HomeController {
         model.addAttribute("title", "Contact");
         return "master";
     }
-
-
 }
+
